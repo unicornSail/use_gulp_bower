@@ -1,0 +1,23 @@
+{
+  "name": "app1",
+  "description": "test",
+  "main": "xun_test.js",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "chance"
+  ],
+  "license": "MIT",
+  "homepage": "http://sixloop.cf",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.0"
+  }
+}
